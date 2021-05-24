@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="JARFiles:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JARFiles_jar</output-path>
+    <root id="root">
+      <element id="archive" name="JARFiles.jar">
+        <element id="module-output" name="JARFiles" />
+      </element>
+      <element id="library" level="project" name="gson-2.8.0" />
+    </root>
+  </artifact>
+</component>
